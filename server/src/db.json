@@ -1,0 +1,685 @@
+{
+    "customers": [
+        {
+            "status": "active",
+            "revenues": 500,
+            "id": "60998074f5a933a92c21b337",
+            "sessionBalance": 3,
+            "name": "Omer Sep30",
+            "email": "omer@omer.com",
+            "phone": "664545481",
+            "stripeId": "cus_JSZKWglgTzO2zQ",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 1200,
+            "id": "609d4719a26672bcfdabdb34",
+            "sessionBalance": 20,
+            "name": "Omer Menashe",
+            "email": "omer.menashe@gmail.com",
+            "phone": "5104566692",
+            "stripeId": "cus_JTdqtQy4kur2ty",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "inactive",
+            "revenues": 14000,
+            "id": "609d85e52f2d7df3f48e4422",
+            "sessionBalance": 3,
+            "name": "Omer Menashe",
+            "email": "omer.menashe2@gmail.com",
+            "phone": "5104566692",
+            "stripeId": "cus_JTiAMIEs3sZ9S6",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 729500,
+            "id": "60b572193008a0462ceb9117",
+            "sessionBalance": 0,
+            "name": "Eran from Customer",
+            "email": "eran@cartys.io",
+            "phone": "5555555555",
+            "stripeId": "cus_JaVcOKwnKwvE9V",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "balance": {
+                "ed997cba-2fef-4a58-9c03-e3ac90c92462": 5,
+                "f9e8c5bd-d0ec-4b1b-9d87-c1d07a0c11ad": 25,
+                "d74d624d-b09d-43b4-a08d-f430209abc0d": 5
+            },
+            "__v": 1
+        },
+        {
+            "status": "active",
+            "revenues": 21500,
+            "id": "60f8a3c878019c0015a415a9",
+            "name": "Carlos",
+            "email": "cyberpolin@gmail.com",
+            "phone": "9931175435",
+            "stripeId": "cus_JtbOg1MBFWYsHY",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "61269c67dd87ff19ed73dd86",
+            "name": "Eran Artzi",
+            "email": "eran_artzi@berkeley.edu",
+            "phone": "+15104566692",
+            "stripeId": "cus_K6fGUzqioNiN2r",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 100000,
+            "id": "6137935cde99260016db1be5",
+            "name": "carlos",
+            "email": "mymail@yopmail.com",
+            "phone": "1231231231",
+            "stripeId": "cus_KBU8Gr471aoK5P",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "lsrjXOipsCRBeL8o5JZsLOG4OFcjqWprg4hYzdbKCh4=",
+            "balance": {
+                "aa3677f0-3722-4e24-9da6-304f5701bd74": 10
+            },
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6137988fde99260016db1c49",
+            "name": "carlos",
+            "email": "c4@yopmail.com",
+            "phone": "1234567890",
+            "stripeId": "cus_KBUV8qbZzELXag",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "61379950de99260016db1c5b",
+            "name": "carlos",
+            "email": "c5@yopmail.com",
+            "phone": "1234567890",
+            "stripeId": "cus_KBUY7VCgyHEIj2",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6137a0e5bd346b90233e6cbc",
+            "name": "carlos",
+            "email": "c6@yopmail.com",
+            "phone": "1234567890",
+            "stripeId": "cus_KBV4eTNC1ZkFRO",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6137a204bd346b90233e6cc1",
+            "name": "carlos",
+            "email": "c7@yopmail.com",
+            "phone": "1234567890",
+            "stripeId": "cus_KBV9BhhvbSsbd9",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6137a2a93934a290eb591bf1",
+            "name": "carlos",
+            "email": "c8@yopmail.com",
+            "phone": "1234567890",
+            "stripeId": "cus_KBVCONp3gLmleV",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6137a45ed92f61910cf6554c",
+            "name": "carlos",
+            "email": "c9@yopmail.com",
+            "phone": "123456789",
+            "stripeId": "cus_KBVJBuz5LuOiCn",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6137a51ecab8dd9133c36683",
+            "name": "carlos",
+            "email": "c10@yopmail.com",
+            "phone": "1234567890",
+            "stripeId": "cus_KBVM3l9ru447vp",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6137a6380d8a0b914a492b79",
+            "name": "carlos",
+            "email": "a1@yopmail.com",
+            "phone": "1234567890",
+            "stripeId": "cus_KBVRE50lfCFXmo",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6137a7cd03baf2918ff90209",
+            "name": "carlos",
+            "email": "a2@yopmail.com",
+            "phone": "1234567890",
+            "stripeId": "cus_KBVYIRzF9ddfFq",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6137a7d703baf2918ff9020e",
+            "name": "carlos",
+            "email": "a3@yopmail.com",
+            "phone": "1234567890",
+            "stripeId": "cus_KBVYg2k6vCgEpB",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6137a9c7f6590b91e3643bfb",
+            "name": "carlos",
+            "email": "a4@yopmail.com",
+            "phone": "1234567890",
+            "stripeId": "cus_KBVgseOOgnseTG",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6137aa24715bce91f477d759",
+            "name": "carlos",
+            "email": "a5@yopmail.com",
+            "phone": "1234567890",
+            "stripeId": "cus_KBViVAR3F16TEe",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6137aa5b25882d91fb4885f5",
+            "name": "carlos",
+            "email": "a6@yopmail.com",
+            "phone": "1234567890",
+            "stripeId": "cus_KBVjCPNacbzlAB",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 22200,
+            "id": "6137aa8b7612db92051f945d",
+            "name": "carlos",
+            "email": "a7@yopmail.com",
+            "phone": "1234567890",
+            "stripeId": "cus_KBVjOkKRYqXfrX",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "balance": {
+                "ebd1ed89-3c68-4b2f-a52f-e6880bb240de": 1,
+                "c7fac559-6120-46d3-bab6-9f67c261a57f": 3
+            },
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 105500,
+            "id": "6137ca1daa16e10016c19704",
+            "name": "Eran Sep7",
+            "email": "eran@sep7.com",
+            "phone": "5104566692",
+            "stripeId": "cus_KBXuShhkfnPnR7",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "balance": {
+                "aa3677f0-3722-4e24-9da6-304f5701bd74": 11
+            },
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "613b9043f5131458e1fa186c",
+            "name": "Carlos Test",
+            "phone": "9931175435",
+            "email": "Cyberolin@gmail.com",
+            "stripeId": "cus_KCcO2GilpXqC5T",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "613b94afacf7925991ba3ba9",
+            "name": "A client",
+            "phone": "1234567890",
+            "email": "The@email.com",
+            "stripeId": "cus_KCchemPuuNkm1V",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "613b9526acf7925991ba3bdc",
+            "name": "A",
+            "phone": "9876543212",
+            "email": "1@1.com",
+            "stripeId": "cus_KCcjVcu3w5sU2F",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "613b9828acf7925991ba3c29",
+            "name": "Q",
+            "phone": "1234123432",
+            "email": "12@1.com",
+            "stripeId": "cus_KCcwMSOks0MJeH",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "613b9b7facf7925991ba3ce8",
+            "name": "A",
+            "phone": "1234567890",
+            "email": "122@1.com",
+            "stripeId": "cus_KCdAebSsGI3MvZ",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "613ba996acf7925991ba403c",
+            "name": "Holo",
+            "phone": "1234567890",
+            "email": "Holo@yopmail.com",
+            "stripeId": "cus_KCe80W0TvE82te",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "inactive",
+            "revenues": 0,
+            "id": "613bab67acf7925991ba40a1",
+            "name": "B",
+            "phone": "1234567890",
+            "email": "Email@yopmail.com",
+            "stripeId": "cus_KCeGySUhdUdt28",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "613bab86acf7925991ba40a6",
+            "name": "C",
+            "phone": "1234567890",
+            "email": "C@yopmail.com",
+            "stripeId": "cus_KCeHcTIaMTbgag",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "613bac18acf7925991ba40e9",
+            "name": "C",
+            "phone": "0987654321",
+            "email": "Aja@yopmail.com",
+            "stripeId": "cus_KCeJ4G1Ec9qiZp",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6140db55e7c7e23d5ccc01ce",
+            "name": "Oscar",
+            "phone": "1234567890",
+            "email": "eran@gmail.com",
+            "stripeId": "cus_KE7eg3vEvPk4QB",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 5500,
+            "id": "614261c24e690e109d31c16e",
+            "name": "Eran Artzi Gmail",
+            "email": "eranartzi@gmail.com",
+            "phone": "5104566692",
+            "stripeId": "cus_KEYW4L3LM45eTH",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "balance": {
+                "aa3677f0-3722-4e24-9da6-304f5701bd74": 1
+            },
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "615481c324fd100004bec6ff",
+            "name": "Test",
+            "phone": "1234567890",
+            "email": "ferr@yopmail.com",
+            "stripeId": "cus_KJhpTyOk7CwE1x",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "615483b824fd100004bec8a5",
+            "name": "Taco",
+            "phone": "1234567890",
+            "email": "taco20@yopmail.com",
+            "stripeId": "cus_KJhxIbaC6gpmOW",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "615484df24fd100004bec935",
+            "phone": "1234567890",
+            "name": "DrSleep",
+            "email": "drsleep@yopmail.com",
+            "stripeId": "cus_KJi2xIArXKkG0r",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "615486cf24fd100004bec996",
+            "name": "Cc",
+            "phone": "1234567890",
+            "email": "cc@yopmail.com",
+            "stripeId": "cus_KJiBs96VvWEPhW",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "615489e324fd100004becb99",
+            "name": "Zz",
+            "phone": "1234567890",
+            "email": "zz@yopmail.com",
+            "stripeId": "cus_KJiOVripquThpI",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "61548b6f24fd100004becc7e",
+            "name": "Zz1",
+            "phone": "1234567890",
+            "email": "z11@yopmail.com",
+            "stripeId": "cus_KJiU14pWKSp62t",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "61548c9624fd100004beccdc",
+            "name": "Zze",
+            "phone": "1234567890",
+            "email": "er@yopmail.com",
+            "stripeId": "cus_KJiZ0PSwxX0BBv",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "61548e4c24fd100004becd6e",
+            "name": "Erd",
+            "phone": "1234567890",
+            "email": "erd@yopmail.com",
+            "stripeId": "cus_KJihTE8WWii9oi",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6154908e24fd100004bececb",
+            "name": "Elz",
+            "phone": "1234567890",
+            "email": "elz@yopmail.com",
+            "stripeId": "cus_KJiqeP99OxL9PR",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "615f4b0b5e6d9d00049512ee",
+            "name": "Eee",
+            "phone": "111111111111111",
+            "email": "car@vgg.bb",
+            "stripeId": "cus_KMlr9lbCI8EW4t",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6160c7a44a550d0004289e6c",
+            "name": "Alex Cruz ",
+            "phone": "9012345678",
+            "email": "taco12@yopmail.com",
+            "stripeId": "cus_KNC23XkNwuFOhF",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6164b8a839511c0016539448",
+            "name": "taco",
+            "email": "cato@yopmail.com",
+            "phone": "1234567890",
+            "stripeId": "cus_KOJUA3KF9EpaEp",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "x3Xnt1ft5jDNCqERO9ECZhqziCnKUqZCKreChi8mhkY=",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6164ba7c39511c0016539460",
+            "name": "holo",
+            "email": "holo@yopmail.com",
+            "phone": "12345654323",
+            "stripeId": "cus_KOJbm6dcaIFz0w",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6165b72cd633470016e88e0c",
+            "name": "taco",
+            "email": "taco22@yopmail.com",
+            "phone": "1234567890",
+            "stripeId": "cus_KOaz7Ys31k7tyC",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "password": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6182a61b016ebeb0b1288c5c",
+            "email": null,
+            "phone": "5104566692",
+            "name": "Eran Nov3",
+            "stripeId": "cus_KWoit2y81Pg7iL",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 100000,
+            "id": "6182a6a7ca56e8b1739eb241",
+            "email": "kate@getpersona.app",
+            "phone": "5104566692",
+            "name": "Eran Nov3",
+            "stripeId": "cus_KWol61xqajWxUh",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "6185767d8f60850004a3638d",
+            "name": "Test CLient1",
+            "phone": "9931175435",
+            "email": "carlos@yopmail.com",
+            "stripeId": "cus_KXcIf5vBXnSHp4",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        },
+        {
+            "status": "active",
+            "revenues": 0,
+            "id": "61857cda8f60850004a36464",
+            "name": "S",
+            "phone": "98888777823",
+            "email": "yop@yopmail.com",
+            "stripeId": "cus_KXcjGSHg14FJAj",
+            "userId": "6092c0e3945b2a68bae44f81",
+            "__v": 0
+        }       
+    ],
+    "payments": [
+        {
+            "id": 1,
+            "userId": "609d85e52f2d7df3f48e4422",
+            "status": "paid",
+            "created": 1636675656904,
+            "amount": 200,
+            "description": "1 on 1"
+        },
+        {
+            "id": 2,
+            "userId": "60b572193008a0462ceb9117",
+            "status": "open",
+            "created": 1636675656904,
+            "amount": 200,
+            "description": "1 on 1"
+        },
+        {
+            "id": 3,
+            "userId": "60b572193008a0462ceb9117",
+            "status": "open",
+            "created": 1636675656904,
+            "amount": 200,
+            "description": "1 on 1"
+        },        {
+            "id": 4,
+            "userId": "609d85e52f2d7df3f48e4422",
+            "status": "paid",
+            "created": 1636675656904,
+            "amount": 200,
+            "description": "1 on 1"
+        },        {
+            "id": 5,
+            "userId": "60998074f5a933a92c21b337",
+            "status": "open",
+            "created": 1636675656904,
+            "amount": 200,
+            "description": "1 on 1"
+        },        {
+            "id": 6,
+            "userId": "609d85e52f2d7df3f48e4422",
+            "status": "paid",
+            "created": 1636675656904,
+            "amount": 200,
+            "description": "1 on 1"
+        },        {
+            "id": 7,
+            "userId": "609d85e52f2d7df3f48e4422",
+            "status": "paid",
+            "created": 1636675656904,
+            "amount": 200,
+            "description": "1 on 1"
+        },        {
+            "id": 8,
+            "userId": "60998074f5a933a92c21b337",
+            "status": "paid",
+            "created": 1636675656904,
+            "amount": 200,
+            "description": "1 on 1"
+        },        {
+            "id": 9,
+            "userId": "61379950de99260016db1c5b",
+            "status": "paid",
+            "created": 1636675656904,
+            "amount": 200,
+            "description": "1 on 1"
+        },        {
+            "id": 10,
+            "userId": "61379950de99260016db1c5b",
+            "status": "open",
+            "created": 1636675656904,
+            "amount": 200,
+            "description": "1 on 1"
+        }
+    ]
+}
